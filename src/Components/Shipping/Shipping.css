@@ -1,0 +1,10 @@
+.shippingFormContainer h2 {
+  text-align: center;
+}
+.shippingFomrs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.shippingFomrs h3 {
+  text-align: center;
+}
