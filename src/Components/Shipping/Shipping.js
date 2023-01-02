@@ -10,7 +10,118 @@ const Shipping = () => {
           <div className="billingAdress">
             <h3>Billing Address</h3>
             <div>
-              <input type="text" name="" placeholder="Your Name" />
+              <label>Attention</label>
+              <input type="text" name="" placeholder="Enter Person/Site Name" />
+            </div>
+            <div>
+              <label>Country</label>
+              <select name="">
+                <option selected disabled>
+                  Please Search
+                </option>
+                <option value="">Bangladesh</option>
+                <option value="">Brazil</option>
+                <option value="">Argentina</option>
+                <option value="">India</option>
+                <option value="">Nepal</option>
+                <option value="">Pakistan</option>
+              </select>
+            </div>
+            <div>
+              <label>Country</label>
+              <select name="">
+                <option selected disabled>
+                  Please Search
+                </option>
+                <option value="">Bangladesh</option>
+                <option value="">Brazil</option>
+                <option value="">Argentina</option>
+                <option value="">India</option>
+                <option value="">Nepal</option>
+                <option value="">Pakistan</option>
+              </select>
+            </div>
+            <div>
+              <label>Country</label>
+              <select name="">
+                <option selected disabled>
+                  Please Search
+                </option>
+                <option value="">Bangladesh</option>
+                <option value="">Brazil</option>
+                <option value="">Argentina</option>
+                <option value="">India</option>
+                <option value="">Nepal</option>
+                <option value="">Pakistan</option>
+              </select>
+            </div>
+            <div>
+              <label>Country</label>
+              <select name="">
+                <option selected disabled>
+                  Please Search
+                </option>
+                <option value="">Bangladesh</option>
+                <option value="">Brazil</option>
+                <option value="">Argentina</option>
+                <option value="">India</option>
+                <option value="">Nepal</option>
+                <option value="">Pakistan</option>
+              </select>
+            </div>
+            <div>
+              <label>Country</label>
+              <select name="">
+                <option selected disabled>
+                  Please Search
+                </option>
+                <option value="">Bangladesh</option>
+                <option value="">Brazil</option>
+                <option value="">Argentina</option>
+                <option value="">India</option>
+                <option value="">Nepal</option>
+                <option value="">Pakistan</option>
+              </select>
+            </div>
+            <div>
+              <label>Country</label>
+              <select name="">
+                <option selected disabled>
+                  Please Search
+                </option>
+                <option value="">Bangladesh</option>
+                <option value="">Brazil</option>
+                <option value="">Argentina</option>
+                <option value="">India</option>
+                <option value="">Nepal</option>
+                <option value="">Pakistan</option>
+              </select>
+            </div>
+            <div>
+              <label>Country</label>
+              <select name="">
+                <option selected disabled>
+                  Please Search
+                </option>
+                <option value="">Bangladesh</option>
+                <option value="">Brazil</option>
+                <option value="">Argentina</option>
+                <option value="">India</option>
+                <option value="">Nepal</option>
+                <option value="">Pakistan</option>
+              </select>
+            </div>
+            <div>
+              <label>Attention</label>
+              <input type="text" name="" placeholder="Enter Person/Site Name" />
+            </div>
+            <div>
+              <label>Attention</label>
+              <input type="text" name="" placeholder="Enter Person/Site Name" />
+            </div>
+            <div>
+              <label>Attention</label>
+              <input type="text" name="" placeholder="Enter Person/Site Name" />
             </div>
           </div>
           <div className="shippingAdress">

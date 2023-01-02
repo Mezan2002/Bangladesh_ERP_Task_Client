@@ -1,10 +1,32 @@
-.shippingFormContainer h2 {
+.shippingFormContainer h2,
+.shippingFomrs h3 {
   text-align: center;
 }
 .shippingFomrs {
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
-.shippingFomrs h3 {
-  text-align: center;
+.billingAdress {
+  padding: 10px 30px 30px;
+  margin: 0 80px;
+  /* border: 1px solid; */
+  border-radius: 10px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+.billingAdress label {
+  font-weight: bold;
+  color: rgb(78, 78, 78);
+}
+.billingAdress select {
+  width: 100%;
+  padding: 6px;
+  margin: 7px 0;
+  font-size: 15px;
+}
+.billingAdress input {
+  width: 98%;
+  padding: 6px;
+  margin: 7px 0;
+  font-size: 15px;
 }
